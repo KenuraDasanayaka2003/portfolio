@@ -1,0 +1,35 @@
+.backgroundColor
+{
+    background:rgb(157, 247, 157) ;
+}
+
+.font
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading
+{
+    color:rgb(206, 24, 239);
+    font-size: xx-large;
+    text-align: center;
+}
+
+.button
+{
+    background-color: rgb(84, 82, 200);
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.border
+{
+    border: 2px solid #333;   
+    padding: 20px;             
+    margin: 20px;              
+    border-radius: 10px;      
+    background-color: #f5bfbf; 
+    box-sizing: border-box;
+    text-align: center;
+}
